@@ -222,6 +222,10 @@
     margin-right: 20px;
 }
 
+.ml-20px{
+    margin-left: 20px;
+}
+
 .m-nogutter
 {
     margin: 0 -15px;
